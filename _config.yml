@@ -1,0 +1,9 @@
+# Site settings
+title: Regolamento Fanta
+author:
+  name: andrea nicoletta
+  email: a.nicoletta996@gmail.com
+description: "Regolamento Fanta90meno1 2022/2023"
+
+# Build settings
+remote_theme: jekyll/minima
